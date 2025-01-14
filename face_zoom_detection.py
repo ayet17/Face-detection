@@ -4,8 +4,8 @@ from src.zoom_manager import ZoomManager
 from src.video_utils import VideoUtils
 
 def main():
-    input_video_path = 'example_video.mp4'
-    output_video_path = 'output_video.mp4'
+    input_video_path = "C:/Users/MSI/Desktop/video_visage.mp4"
+    output_video_path = "C:/Users/MSI/Desktop/sortie_visage.mp4"
 
     # Initialisation des modules
     face_detection = FaceDetection()
